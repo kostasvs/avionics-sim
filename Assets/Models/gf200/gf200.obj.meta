@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: de19e41fcb2b75d48a3303698aa245e2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite
+    second: {fileID: 2100000, guid: d65eaf87932275b44ba26c51c4ad6753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_5660L-3.png
+    second: {fileID: 2100000, guid: b2d96f8cad8d40c46b765f00836b2620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_KI227.png
+    second: {fileID: 2100000, guid: 09971917c685cd64fa58c0914646ed6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_KNS80.png
+    second: {fileID: 2100000, guid: 01db45e48c59eb642ae0ae1d09f6eb23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_KR87.png
+    second: {fileID: 2100000, guid: 2ca4a0e2912a5a349885da4a2cce06d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_KT76A.png
+    second: {fileID: 2100000, guid: 6586ab684b0bc344d8db11d626f00306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_MPFuel.png
+    second: {fileID: 2100000, guid: 05178d6ec1ce2ea4a8852ad81c6bb531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_alt-tape.png
+    second: {fileID: 2100000, guid: cbe3270d073d04d4db4e87fef7e8cbf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_alt.png
+    second: {fileID: 2100000, guid: 349567fff4a9ad1489fa9f370831d641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_altimeter.png
+    second: {fileID: 2100000, guid: e36f413cf9e9a354eb2dd25cc57617ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_asi.png
+    second: {fileID: 2100000, guid: 5c51715bf4f3f0441a4ffd3cfd17bc3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_buttons.png
+    second: {fileID: 2100000, guid: 1232e62c83da04e4698362980e12c557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_charge.png
+    second: {fileID: 2100000, guid: fedc330b67e0ba74b8bf13f470a48ad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_chrono.png
+    second: {fileID: 2100000, guid: 431271e9065b4c746842bfcec3151436, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_eadi.png
+    second: {fileID: 2100000, guid: e830c331c4550ac4e84085f9c6374486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_ehsi.png
+    second: {fileID: 2100000, guid: 94fb3772ee6b8c641a2f944eb2e18b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_fuel-press.png
+    second: {fileID: 2100000, guid: 169a6d49ba67f3c4d94848503fceb968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_interior.png
+    second: {fileID: 2100000, guid: f7cb9db993e5ac941a619d7d683b87d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_kap140.png
+    second: {fileID: 2100000, guid: 781f9d1d93809c844abf449e7bb0a126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_kfc-200.png
+    second: {fileID: 2100000, guid: 0d88418f7998c5f4299c235d5618e6b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_kx165.png
+    second: {fileID: 2100000, guid: b871af426c3fd1b4baa523d8ff4349d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_mag_switch.png
+    second: {fileID: 2100000, guid: 7a71c3eab0e808e4c95bef720b1f6e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_oil-press.png
+    second: {fileID: 2100000, guid: c8afa9a3992a25d48b164e1c3f8b54b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_oil-temp.png
+    second: {fileID: 2100000, guid: f37b786270a6ed843beb4f5c3dafaff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_panel.png
+    second: {fileID: 2100000, guid: 102d72b9915c3314793bcbd45bedb2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_rmi.png
+    second: {fileID: 2100000, guid: 9f874893282871c46b6925ec8efec219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_rpm.png
+    second: {fileID: 2100000, guid: 42a7336ad3f53f941a0463064fa1fb04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_seat.png
+    second: {fileID: 2100000, guid: 880f3bd3c9875024daefe730008f4828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_tach.png
+    second: {fileID: 2100000, guid: 2ce8a1eb18c13c24580990275227dc42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_turn.png
+    second: {fileID: 2100000, guid: a46a635692f4aaa4fa9d5deda7943fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_vsi.png
+    second: {fileID: 2100000, guid: e2b9c7ae8a7e9264ba157fbc099cf8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent
+    second: {fileID: 2100000, guid: 3e69b760d2e439946b653442a9d3249e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparentexterior
+    second: {fileID: 2100000, guid: 3f2e8ce764559d84ea36721172aedc19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparentred
+    second: {fileID: 2100000, guid: 11840b19954729149a58818dbdee4657, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 1
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
