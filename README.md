@@ -24,6 +24,8 @@ Made with Unity 2020.3.24.
 
 Open in Unity 2020.3.24 or newer, and play or build for your platform.
 
+Windows users: [download executable from Releases](../../releases).
+
 ## Video
 
 [![Demo video](http://img.youtube.com/vi/AecgQXvdo7E/0.jpg)](http://www.youtube.com/watch?v=AecgQXvdo7E "Demo video")
